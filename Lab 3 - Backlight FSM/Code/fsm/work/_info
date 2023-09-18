@@ -1,0 +1,71 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/brend/Downloads/Lab3/Lab3/fsm
+T_opt
+Z1 !s110 1648676080
+VJ4a>]7[@WTbj]8V?<lGJ13
+04 8 4 work stimulus fast 0
+=1-7c10c924b963-6244ccf0-264-2c78
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+vFSM
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R1
+!i10b 1
+!s100 ==LY]j72g:g]igbXMckFz2
+I4^TEmF3>fhm0JmKS5JOIJ2
+S1
+R0
+w1648607883
+8fsm.sv
+Ffsm.sv
+!i122 0
+L0 1 125
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.3;73
+r1
+!s85 0
+31
+Z6 !s108 1648676080.000000
+Z7 !s107 fsm_tb.sv|fsm.sv|
+Z8 !s90 -reportprogress|300|fsm.sv|fsm_tb.sv|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@f@s@m
+vstimulus
+R3
+R1
+!i10b 1
+!s100 XWV1gC]j[e]ieHG]Y3DYF0
+INdPGMWSFWKQ@1Bl5n=ibh1
+S1
+R0
+w1648674912
+8fsm_tb.sv
+Ffsm_tb.sv
+!i122 0
+L0 2 66
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R2

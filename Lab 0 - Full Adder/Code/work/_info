@@ -1,0 +1,85 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+!s11f vlog 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/brend/Downloads/Lab0/Lab0
+T_opt
+!s110 1642711087
+V6<`P_Sd<3iTCX1K51?^LV3
+Z2 04 2 4 work tb fast 0
+=1-7c10c924b963-61e9c82e-24f-213c
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.3;73
+R1
+T_opt1
+!s110 1642712441
+VAlER][A[K1j55>FP`gOK>2
+R2
+=1-7c10c924b963-61e9cd79-123-4ca4
+R3
+R4
+R5
+n@_opt1
+R6
+vfulladder
+Z7 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z8 !s110 1642712440
+!i10b 1
+!s100 eP_XY@33kdNS5ahog^KiH3
+IW3@YdL9]Gmbg_5zGH1V=32
+S1
+R1
+w1642711012
+8fulladder.sv
+Ffulladder.sv
+!i122 0
+L0 1 10
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.3;73
+r1
+!s85 0
+31
+Z11 !s108 1642712440.000000
+Z12 !s107 fulladder_tb.sv|fulladder.sv|
+Z13 !s90 -reportprogress|300|fulladder.sv|fulladder_tb.sv|
+!i113 0
+Z14 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+vtb
+R7
+R8
+!i10b 1
+!s100 GcUIRg8fk2a>hR6JX_I6W2
+I@434;B[;?lQHZVG9oXfJV3
+S1
+R1
+w1642711235
+8fulladder_tb.sv
+Ffulladder_tb.sv
+!i122 0
+L0 2 70
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R5

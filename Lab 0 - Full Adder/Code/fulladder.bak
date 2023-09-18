@@ -1,0 +1,22 @@
+module silly (input  logic a, b, c, output logic y);
+   
+  assign y = ~b & ~c | a & ~b;
+   
+endmodule
+
+module sum(input logic a, b, c,
+	output logic y);
+
+assign y = a ^ b ^ c;
+
+endmodule
+
+module cout(input logic a, b, c,
+	output logic y);
+
+	assign y = a & b | 
+	a & c | 
+	b & c;
+
+endmodule
+
